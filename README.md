@@ -33,3 +33,7 @@ Several bugs are currently present, including incorrect parsing of some raids. A
 For contributing to the development of the project, please follow the installation instructions as described in the original text. We encourage contributions from everyone who loves World of Warcraft as much as we do!
 
 Join us in enhancing LegacyPlayers and preserving the rich history of WoW!
+
+## API DOCS
+
+[API DOCS in Russian](API_DOCS.md)
